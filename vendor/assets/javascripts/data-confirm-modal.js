@@ -132,7 +132,7 @@
           '<div class="modal-content">' +
             '<div class="modal-header">' +
               '<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>' +
-              '<h4 id="'+id+'Label" class="modal-title"></h4> ' +
+              '<center><h4 id="'+id+'Label" class="modal-title"></h4> </center>' +
             '</div>' +
             '<div class="modal-body"></div>' +
             '<div class="modal-footer">' +
